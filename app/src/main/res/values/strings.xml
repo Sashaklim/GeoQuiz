@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">GeoQuiz 4.1</string>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="question_san">Солнце — это звезда.</string>
+    <string name="question_russia">Площадь России больше, чем площадь Канады.</string>
+    <string name="question_ping">Пингвины живут на Северном полюсе.</string>
+    <string name="question_atom">Атом — это наименьшая частица вещества, сохраняющая его свойства.</string>
+    <string name="question_germany">Берлин — столица Германии.</string>
 </resources>

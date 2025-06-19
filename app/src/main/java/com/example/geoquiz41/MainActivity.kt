@@ -19,3 +19,10 @@ class MainActivity : AppCompatActivity() {
     private lateinit var answeredQuestions: BooleanArray
         }
 
+private val questionBank = listOf(
+    Question(R.string.question_san, true),
+    Question(R.string.question_russia, true),
+    Question(R.string.question_ping, false),
+    Question(R.string.question_atom, false),
+    Question(R.string.question_germany, true)
+)
